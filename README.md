@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=TEHREEM%20RANA&fontSize=70&fontColor=ffffff&font=Oswald" width="100%" />
 </p>
 
-
 ## 🚀 About me 
 I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I focus on the core side of software—writing clean logic, understanding internal systems, and building efficient solutions. 
 
@@ -48,7 +47,6 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
 
 ---
 
-
 ## 📌 Featured Projects
 <table width="100%">
   <tr>
@@ -74,8 +72,6 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
 
 ---
 
-
-
 ## 🌐 Reach Out
 | Platform | Link |
 | :--- | :--- |
@@ -91,6 +87,12 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
 | **GeeksForGeeks** | [Profile](https://www.geeksforgeeks.org/profile/tehree738k) | | |
 
 <br />
+
+---
+<p align="center">
+  <b>© 2026 TEHREEM RANA | All Rights Reserved.</b><br>
+  <sub>Unauthorized use of this README's code or design is strictly prohibited.</sub>
+</p>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=40&section=footer" width="100%" />
