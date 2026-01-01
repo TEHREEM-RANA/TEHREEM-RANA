@@ -3,7 +3,7 @@
 </p>
 
 
-## 🚀 Overview
+## 🚀 About me 
 I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I focus on the core side of software—writing clean logic, understanding internal systems, and building efficient solutions. 
 
 * 🏛️ **Leadership:** Founder of **The UBIT Hub**, mentoring students in disciplined software development.
