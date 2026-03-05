@@ -2,20 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=TEHREEM%20RANA&fontSize=70&fontColor=ffffff&font=Oswald" width="100%" />
 </p>
 
-## 🚀 About me 
+##  About me 
 I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I focus on the core side of software—writing clean logic, understanding internal systems, and building efficient solutions. 
 
-* 🏛️ **Leadership:** Founder of **The UBIT Hub**, mentoring students in disciplined software development.
-* 💻 **Core Interest:** Backend development (Java), performance-driven design, and system architecture.
-* 🎓 **Education:** Strong foundation in OOP, DSA, and clean engineering habits.
+*  **Leadership:** Founder of **The UBIT Hub**, mentoring students in disciplined software development.
+*  **Core Interest:** Backend development (Java), performance-driven design, and system architecture.
+*  **Education:** Strong foundation in OOP, DSA, and clean engineering habits.
 
 ---
 
-## 🛠️ Technical Focus & Expertise
+##  Technical Focus & Expertise
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 Logic & Problem Solving</h4>
+      <h4> Logic & Problem Solving</h4>
       <ul>
         <li><b>Data Structures & Algorithms:</b> Proficient in C++ and Java for optimized logic.</li>
         <li><b>Problem Solving:</b> Active on LeetCode & Competitive platforms.</li>
@@ -23,7 +23,7 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 Frontend & Design</h4>
+      <h4> Frontend & Design</h4>
       <ul>
         <li><b>Web Development:</b> Building responsive UIs with HTML, CSS, and JS.</li>
         <li><b>User Experience:</b> Creating simple, correct, and efficient interfaces.</li>
@@ -34,7 +34,7 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
 
 ---
 
-## 🧰 Engineering Stack
+##  Engineering Stack
 ### ⌨️ Languages
 `C++` `Java` `Python` `JavaScript` `HTML` `CSS`
 
@@ -47,16 +47,16 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛠️ TangentTools</h4>
+      <h4> TangentTools</h4>
       <p>A web tool interface built with <b>HTML & CSS</b>. Focused on clean UI design and functional utility.</p>
       <a href="https://github.com/TEHREEM-RANA/TangentTools"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>⌨️ code-typing-challenge</h4>
+      <h4> code-typing-challenge</h4>
       <p>A <b>JavaScript</b> based project featuring core game logic and clear UI/UX separation for developers.</p>
       <a href="https://github.com/TEHREEM-RANA/code-typing-challenge"><b>View Repository →</b></a>
     </td>
@@ -79,7 +79,7 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
 | **Gmail** | [Send Mail](https://mail.google.com/mail/?view=cm&fs=1&to=tehreemr61@gmail.com) |
 | **Discord** | `tehreemrana_` |
 
-## 🏆 Coding Profiles
+##  Coding Profiles
 | Platform | Link | Platform | Link |
 | :--- | :--- | :--- | :--- |
 | **LeetCode** | [Profile](https://leetcode.com/u/Tehreem_Rana2/) | **CodeChef** | [Profile](https://www.codechef.com/users/tehreem_2) |
