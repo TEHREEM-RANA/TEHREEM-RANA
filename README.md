@@ -62,24 +62,24 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
     <td width="50%" valign="top">
       <h4> Challenge Grid Core</h4>
       <p>A dynamic data-grid and productivity dashboard web application built to handle complex state tracking and modern user experiences.</p>
-      <a href="https://challenge-grid-core.vercel.app/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/challenge-grid-core"><b>💻 GitHub Repo</b></a>
+      <a href="https://challenge-grid-core.vercel.app/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/challenge-grid-core"><b> GitHub Repo</b></a>
     </td>
     <td width="50%" valign="top">
       <h4> Pak Traveler</h4>
       <p>A specialized travel platform helping users discover efficient, safe, and cost-effective travel routes across Pakistan with an engaging UI.</p>
-      <a href="https://paktraveler-web.vercel.app/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/paktraveler-web"><b>💻 GitHub Repo</b></a>
+      <a href="https://paktraveler-web.vercel.app/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/paktraveler-web"><b> GitHub Repo</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4> ImpexSafe</h4>
       <p>A full-scale logistics and cargo management platform tailored to handle streamlined international shipping workflows.</p>
-      <a href="https://impexsafe-web.vercel.app/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/impexsafe-web"><b>💻 GitHub Repo</b></a>
+      <a href="https://impexsafe-web.vercel.app/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/impexsafe-web"><b> GitHub Repo</b></a>
     </td>
     <td width="50%" valign="top">
       <h4> RinseUp UK</h4>
       <p>A premium and responsive commercial web solution built for an on-demand commercial laundry and dry-cleaning enterprise.</p>
-      <a href="https://rinseup.uk/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/rinseup-uk"><b>💻 GitHub Repo</b></a>
+      <a href="https://rinseup.uk/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/rinseup-uk"><b> GitHub Repo</b></a>
     </td>
   </tr>
 </table>
@@ -92,9 +92,9 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEHREEM-RANA&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TEHREEM-RANA&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=TEHREEM-RANA&theme=dark&hide_border=true&background=000000&title=ffffff&text=aaaaaa&fire=ffffff" width="49%" />
-</p>
+</p> -->
 
 ##  Reach Out
 | Platform | Link |
