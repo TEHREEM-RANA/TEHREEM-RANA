@@ -8,7 +8,7 @@
 
 ---
 
-# 👋 About Me
+#  About Me
 
 I'm **Tehreem Rana**, a **Software Engineering student** at **UBIT – University of Karachi** and an aspiring **MERN Stack Developer** passionate about building scalable, modern, and user-friendly web applications.
 
@@ -16,13 +16,13 @@ I enjoy turning ideas into real products by combining clean design with efficien
 
 ---
 
-# 🚀 What I Do
+#  What I Do
 
-- 💻 **Full Stack Web Development** — Building dynamic end-to-end applications.
-- ⚡ **Responsive Frontend Design** — Crafting fast, fluid, and mobile-friendly user interfaces.
-- 🎨 **Clean UI/UX Architecture** — Prioritizing intuitive and aesthetic user journeys.
-- 🔗 **RESTful API Integration** — Connecting frontend systems smoothly with robust backends.
-- 🧠 **Problem Solving** — Deep diving into Data Structures & Algorithms.
+-  **Full Stack Web Development** — Building dynamic end-to-end applications.
+-  **Responsive Frontend Design** — Crafting fast, fluid, and mobile-friendly user interfaces.
+-  **Clean UI/UX Architecture** — Prioritizing intuitive and aesthetic user journeys.
+-  **RESTful API Integration** — Connecting frontend systems smoothly with robust backends.
+-  **Problem Solving** — Deep diving into Data Structures & Algorithms.
 
 ---
 
@@ -50,7 +50,7 @@ I enjoy turning ideas into real products by combining clean design with efficien
 
 ---
 
-# 🌟 Featured Projects
+#  Featured Projects
 
 ### 🚀 Challenge Grid Core
 A modern productivity platform for managing goals, challenges, and daily progress with a clean, responsive user experience.
@@ -66,52 +66,44 @@ A logistics and cargo management platform built for international shipping servi
 ### 🧺 RinseUp UK
 A professional online booking website developed for a UK-based laundry and dry-cleaning business.
 
-### 🎯 Pro Goal Counter
-A productivity application for tracking goals and long-term progress.
-
-### ⌨️ Code Typing Challenge
-A web application designed to improve coding speed and typing accuracy.
-
----
-
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TEHREEM-RANA&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=94a3b8&icon_color=64748b"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TEHREEM-RANA&theme=dark&hide_border=true&background=0f172a&title=f8fafc&text=94a3b8&fire=64748b"/>
 </p>
 
-### 📈 Contribution History
+###  Contribution History
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEHREEM-RANA&theme=github-compact&hide_border=true&bg_color=0f172a&color=64748b&line=94a3b8&point=f8fafc"/>
 </p>
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TEHREEM-RANA&theme=onedark&no-frame=true&column=4"/>
 </p>
 
 ---
 
-# 💻 Coding Profiles
+#  Coding Profiles
 
 | Platform | Profile Link |
 | :--- | :--- |
-| 🟠 **LeetCode** | [View Profile](https://leetcode.com/u/Tehreem_Rana2/) |
-| 🔵 **Codeforces** | [View Profile](https://codeforces.com/profile/tehreemr61) |
-| 🟤 **CodeChef** | [View Profile](https://www.codechef.com/users/tehreem_2) |
-| 🟢 **GeeksforGeeks** | [View Profile](https://www.geeksforgeeks.org/profile/tehree738k) |
-| ⚫ **Codolio** | [View Profile](https://codolio.com/profile/bviZLoyz) |
+|  **LeetCode** | [View Profile](https://leetcode.com/u/Tehreem_Rana2/) |
+|  **Codeforces** | [View Profile](https://codeforces.com/profile/tehreemr61) |
+|  **CodeChef** | [View Profile](https://www.codechef.com/users/tehreem_2) |
+|  **GeeksforGeeks** | [View Profile](https://www.geeksforgeeks.org/profile/tehree738k) |
+|  **Codolio** | [View Profile](https://codolio.com/profile/bviZLoyz) |
 
 ---
 
-# 🌐 Digital Portfolio
+#  Digital Portfolio
 
 * 🔗 **Personal Website:** [https://tehreem-rana.vercel.app](https://tehreem-rana.vercel.app)
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tehreem22" target="_blank">
