@@ -1,131 +1,132 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=220&section=header&text=Tehreem%20Rana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Software%20Engineering%20Student&descAlignY=60&descSize=20" width="100%" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Software+Engineering+Student+at+UBIT;Building+Modern+Web+Applications;Passionate+About+Clean+Code+and+Problem+Solving" />
-</p>
-
----
-
-#  About Me
-
-I'm **Tehreem Rana**, a **Software Engineering student** at **UBIT – University of Karachi** and an aspiring **MERN Stack Developer** passionate about building scalable, modern, and user-friendly web applications.
-
-I enjoy turning ideas into real products by combining clean design with efficient code. Alongside web development, I continuously improve my **Data Structures & Algorithms** skills to become a stronger software engineer.
-
----
-
-#  What I Do
-
--  **Full Stack Web Development** — Building dynamic end-to-end applications.
--  **Responsive Frontend Design** — Crafting fast, fluid, and mobile-friendly user interfaces.
--  **Clean UI/UX Architecture** — Prioritizing intuitive and aesthetic user journeys.
--  **RESTful API Integration** — Connecting frontend systems smoothly with robust backends.
--  **Problem Solving** — Deep diving into Data Structures & Algorithms.
-
----
-
-# 🛠 Tech Stack
-
-### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=TEHREEM%20RANA&fontSize=70&fontColor=ffffff&font=Oswald" width="100%" />
 </p>
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Software+Engineering+Student+at+UBIT;Building+Modern+Web+Applications;Passionate+About+Clean+Code+and+Problem+Solving" />
 </p>
 
-### 🧠 Programming Languages
+##  About me 
+I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I focus on both full-stack MERN architecture and core programming systems—writing clean logic, optimizing database layouts, and building performance-driven web solutions. 
+
+*  **Leadership:** Founder of **The UBIT Hub**, mentoring students in disciplined software development.
+*  **Core Interest:** MERN Stack development, dynamic state management, performance tuning, and scalable architecture.
+*  **Education:** Strong foundation in OOP, Data Structures & Algorithms, and clean engineering habits.
+
+---
+
+##  Technical Focus & Expertise
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4> Logic & Problem Solving</h4>
+      <ul>
+        <li><b>Data Structures & Algorithms:</b> Proficient in C++ and Java for optimized problem solving.</li>
+        <li><b>Competitive Programming:</b> Active on LeetCode, Codeforces, and top-tier evaluation platforms.</li>
+        <li><b>Object Oriented Programming:</b> Solid knowledge of software design patterns and modular code.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4> Full Stack Development</h4>
+      <ul>
+        <li><b>MERN Stack:</b> Crafting scalable backends with Node.js/Express and dynamic frontends with React/Next.js.</li>
+        <li><b>Database Design:</b> Designing efficient data models using MongoDB.</li>
+        <li><b>User Experience:</b> Creating lightning-fast, fully responsive UI/UX structures with Tailwind CSS.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+##  Engineering Stack
+### ⌨️ Languages & Core Technologies
+`HTML` `CSS` `JavaScript` `React` `Next.js` `Node.js` `Express` `MongoDB` `C++`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp&theme=dark" />
+
+### ⚙️ Dev Toolkit
+`VS Code` `Git` `GitHub` `Vercel` `Figma`
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma&theme=dark" />
+
+---
+
+##  Featured Projects
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4> 🚀 Challenge Grid Core</h4>
+      <p>A dynamic data-grid and productivity dashboard web application built to handle complex state tracking and modern user experiences.</p>
+      <a href="https://challenge-grid-core.vercel.app/"><b>Live Link →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4> ✈️ Pak Traveler</h4>
+      <p>A specialized travel platform helping users discover efficient, safe, and cost-effective travel routes across Pakistan with an engaging UI.</p>
+      <a href="https://paktraveler-web.vercel.app/"><b>Live Link →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4> 🚛 ImpexSafe</h4>
+      <p>A full-scale logistics and cargo management platform tailored to handle streamlined international shipping workflows.</p>
+      <a href="https://impexsafe-web.vercel.app/"><b>Live Link →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4> 🧺 RinseUp UK</h4>
+      <p>A premium and responsive commercial web solution built for an on-demand commercial laundry and dry-cleaning enterprise.</p>
+      <a href="https://rinseup.uk/"><b>Live Link →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4> ⌨️ Code Typing Challenge</h4>
+      <p>An interactive developer-focused game designed to analyze, track, and improve programming syntax speed and real-time accuracy.</p>
+      <a href="https://code-typing-challenge-theta.vercel.app/"><b>Live Link →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4> 🎯 Pro Goal Counter</h4>
+      <p>A lightweight productivity utility system geared toward structural tracking of tasks, routines, and long-term milestones.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Activity & Performance
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TEHREEM-RANA&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
-### 🛠 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TEHREEM-RANA&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TEHREEM-RANA&theme=dark&hide_border=true&background=000000&title=ffffff&text=aaaaaa&fire=ffffff"/>
 </p>
 
 ---
 
-#  Featured Projects
-
-### 🚀 Challenge Grid Core
-A modern productivity platform for managing goals, challenges, and daily progress with a clean, responsive user experience.
-* 🔗 **Live Demo:** [https://challenge-grid-core.vercel.app/](https://challenge-grid-core.vercel.app/)
-
-### ✈️ Pak Traveler
-A travel platform that helps users explore efficient, safe, and cost-effective travel routes across Pakistan.
-* 🔗 **Live Demo:** [https://paktraveler-web.vercel.app/](https://paktraveler-web.vercel.app/)
-
-### 🚛 ImpexSafe
-A logistics and cargo management platform built for international shipping services.
-
-### 🧺 RinseUp UK
-A professional online booking website developed for a UK-based laundry and dry-cleaning business.
-
-#  GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TEHREEM-RANA&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=94a3b8&icon_color=64748b"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TEHREEM-RANA&theme=dark&hide_border=true&background=0f172a&title=f8fafc&text=94a3b8&fire=64748b"/>
-</p>
-
-###  Contribution History
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEHREEM-RANA&theme=github-compact&hide_border=true&bg_color=0f172a&color=64748b&line=94a3b8&point=f8fafc"/>
-</p>
-
-###  GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TEHREEM-RANA&theme=onedark&no-frame=true&column=4"/>
-</p>
-
----
-
-#  Coding Profiles
-
-| Platform | Profile Link |
+## 🌐 Reach Out
+| Platform | Link |
 | :--- | :--- |
-|  **LeetCode** | [View Profile](https://leetcode.com/u/Tehreem_Rana2/) |
-|  **Codeforces** | [View Profile](https://codeforces.com/profile/tehreemr61) |
-|  **CodeChef** | [View Profile](https://www.codechef.com/users/tehreem_2) |
-|  **GeeksforGeeks** | [View Profile](https://www.geeksforgeeks.org/profile/tehree738k) |
-|  **Codolio** | [View Profile](https://codolio.com/profile/bviZLoyz) |
+| **Personal Website** | [Visit Portfolio](https://tehreem-rana.vercel.app) |
+| **LinkedIn** | [Connect Here](https://linkedin.com/in/tehreem22) |
+| **Gmail** | [Send Mail](https://mail.google.com/mail/?view=cm&fs=1&to=tehreemr88@gmail.com) |
+
+##  Coding Profiles
+| Platform | Link | Platform | Link |
+| :--- | :--- | :--- | :--- |
+| **LeetCode** | [Profile](https://leetcode.com/u/Tehreem_Rana2/) | **CodeChef** | [Profile](https://www.codechef.com/users/tehreem_2) |
+| **Codeforces** | [Profile](https://codeforces.com/profile/tehreemr61) | **Codolio** | [Profile](https://codolio.com/profile/bviZLoyz) |
+| **GeeksForGeeks** | [Profile](https://www.geeksforgeeks.org/profile/tehree738k) | | |
+
+<br />
 
 ---
-
-#  Digital Portfolio
-
-* 🔗 **Personal Website:** [https://tehreem-rana.vercel.app](https://tehreem-rana.vercel.app)
-
----
-
-#  Connect With Me
+<p align="center">
+  <b>© 2026 TEHREEM RANA | All Rights Reserved.</b><br>
+  <sub>Unauthorized use of this README's code or design is strictly prohibited.</sub>
+</p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tehreem22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tehreemr88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/TEHREEM-RANA" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://tehreem-rana.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub><i>"Building software that is clean, scalable, and meaningful."</i></sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=40&section=footer" width="100%" />
 </p>
