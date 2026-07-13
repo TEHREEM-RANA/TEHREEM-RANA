@@ -6,16 +6,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Software+Engineering+Student+at+UBIT;Building+Modern+Web+Applications;Passionate+About+Clean+Code+and+Problem+Solving" />
 </p>
 
-##  About me 
+## About me
 I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I focus on both full-stack MERN architecture and core programming systems—writing clean logic, optimizing database layouts, and building performance-driven web solutions. 
 
-*  **Leadership:** Founder of **The UBIT Hub**, mentoring students in disciplined software development.
-*  **Core Interest:** MERN Stack development, dynamic state management, performance tuning, and scalable architecture.
-*  **Education:** Strong foundation in OOP, Data Structures & Algorithms, and clean engineering habits.
+* **Leadership:** Founder of **The UBIT Hub**, mentoring students in disciplined software development.
+* **Core Interest:** MERN Stack development, dynamic state management, performance tuning, and scalable architecture.
+* **Education:** Strong foundation in OOP, Data Structures & Algorithms, and clean engineering habits.
 
----
+> ### Visit My Digital Space
+> Discover my full range of work, operational metrics, and complete professional journey at:
+> **👉 [tehreem-rana.vercel.app](https://tehreem-rana.vercel.app)**
 
-##  Technical Focus & Expertise
+
+
+## Technical Focus & Expertise
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -37,9 +41,9 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
   </tr>
 </table>
 
----
 
-##  Engineering Stack
+
+## Engineering Stack
 ### ⌨️ Languages & Core Technologies
 `HTML` `CSS` `JavaScript` `React` `Next.js` `Node.js` `Express` `MongoDB` `C++`
 
@@ -50,69 +54,56 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma&theme=dark" />
 
----
 
-##  Featured Projects
+
+## Featured Projects
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4> 🚀 Challenge Grid Core</h4>
+      <h4> Challenge Grid Core</h4>
       <p>A dynamic data-grid and productivity dashboard web application built to handle complex state tracking and modern user experiences.</p>
-      <a href="https://challenge-grid-core.vercel.app/"><b>Live Link →</b></a>
+      <a href="https://challenge-grid-core.vercel.app/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/challenge-grid-core"><b>💻 GitHub Repo</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4> ✈️ Pak Traveler</h4>
+      <h4> Pak Traveler</h4>
       <p>A specialized travel platform helping users discover efficient, safe, and cost-effective travel routes across Pakistan with an engaging UI.</p>
-      <a href="https://paktraveler-web.vercel.app/"><b>Live Link →</b></a>
+      <a href="https://paktraveler-web.vercel.app/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/paktraveler-web"><b>💻 GitHub Repo</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4> 🚛 ImpexSafe</h4>
+      <h4> ImpexSafe</h4>
       <p>A full-scale logistics and cargo management platform tailored to handle streamlined international shipping workflows.</p>
-      <a href="https://impexsafe-web.vercel.app/"><b>Live Link →</b></a>
+      <a href="https://impexsafe-web.vercel.app/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/impexsafe-web"><b>💻 GitHub Repo</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4> 🧺 RinseUp UK</h4>
+      <h4> RinseUp UK</h4>
       <p>A premium and responsive commercial web solution built for an on-demand commercial laundry and dry-cleaning enterprise.</p>
-      <a href="https://rinseup.uk/"><b>Live Link →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4> ⌨️ Code Typing Challenge</h4>
-      <p>An interactive developer-focused game designed to analyze, track, and improve programming syntax speed and real-time accuracy.</p>
-      <a href="https://code-typing-challenge-theta.vercel.app/"><b>Live Link →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4> 🎯 Pro Goal Counter</h4>
-      <p>A lightweight productivity utility system geared toward structural tracking of tasks, routines, and long-term milestones.</p>
+      <a href="https://rinseup.uk/"><b>🔗 Live Demo</b></a> | <a href="https://github.com/TEHREEM-RANA/rinseup-uk"><b>💻 GitHub Repo</b></a>
     </td>
   </tr>
 </table>
 
----
 
-## 📈 Activity & Performance
-<p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TEHREEM-RANA&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+
+##  Activity & Performance
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEHREEM-RANA&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TEHREEM-RANA&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TEHREEM-RANA&theme=dark&hide_border=true&background=000000&title=ffffff&text=aaaaaa&fire=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TEHREEM-RANA&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=TEHREEM-RANA&theme=dark&hide_border=true&background=000000&title=ffffff&text=aaaaaa&fire=ffffff" width="49%" />
 </p>
 
----
-
-## 🌐 Reach Out
+##  Reach Out
 | Platform | Link |
 | :--- | :--- |
-| **Personal Website** | [Visit Portfolio](https://tehreem-rana.vercel.app) |
 | **LinkedIn** | [Connect Here](https://linkedin.com/in/tehreem22) |
 | **Gmail** | [Send Mail](https://mail.google.com/mail/?view=cm&fs=1&to=tehreemr88@gmail.com) |
+| **Discord** | `tehreemrana_` |
 
-##  Coding Profiles
+## Coding Profiles
 | Platform | Link | Platform | Link |
 | :--- | :--- | :--- | :--- |
 | **LeetCode** | [Profile](https://leetcode.com/u/Tehreem_Rana2/) | **CodeChef** | [Profile](https://www.codechef.com/users/tehreem_2) |
@@ -121,7 +112,12 @@ I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I
 
 <br />
 
----
+<p align="center">
+  <b>"Building software that is clean, scalable, and meaningful."</b>
+</p>
+
+
+
 <p align="center">
   <b>© 2026 TEHREEM RANA | All Rights Reserved.</b><br>
   <sub>Unauthorized use of this README's code or design is strictly prohibited.</sub>
