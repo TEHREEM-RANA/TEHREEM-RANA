@@ -9,9 +9,9 @@
 ## About me
 I’m a **Software Engineering undergraduate at UBIT, University of Karachi**. I focus on both full-stack MERN architecture and core programming systems—writing clean logic, optimizing database layouts, and building performance-driven web solutions. 
 
-* **Leadership:** Founder of **The UBIT Hub**, mentoring students in disciplined software development.
 * **Core Interest:** MERN Stack development, dynamic state management, performance tuning, and scalable architecture.
-* **Education:** Strong foundation in OOP, Data Structures & Algorithms, and clean engineering habits.
+* **Development Approach:** Committed to writing clean, maintainable logic and implementing optimal software design patterns.
+* **Education:** Strong foundation in OOP, Data Structures & Algorithms, and disciplined engineering habits.
 
 > ### Visit My Digital Space
 > Discover my full range of work, operational metrics, and complete professional journey at:
